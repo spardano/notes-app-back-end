@@ -1,0 +1,19 @@
+--install nodemon
+
+npm install nodemon --save-dev
+
+--install ESLint
+
+npm install eslint --save-dev
+
+--konfigurasi eslint
+
+npx eslint --init
+
+--install framework hapi
+
+npm install @hapi/hapi
+
+-- install nanoid for generating unique id
+
+npm install nanoid
